@@ -12,7 +12,7 @@
    <p align="center">${\textsf{\color{#8F1212} check strawpage / pronouns page / sign ata! }}$
 
 </p>
-<img width="362" height="246" alt="image" src="https://64.media.tumblr.com/e5175d03fcde7c20d752c5dcd7f2263b/59a1612475a58842-32/s540x810/f9322ca787eb95bf582e741022115bc2112e340d.gif<img width="540" height="340" alt="image" src="https://github.com/user-attachments/assets/49971164-6c5f-490b-8b18-befadc934b44" />
+<img width="362" height="246" alt="image" src="https://middlehyrule.files.wordpress.com/2016/12/636006029198865499-403654757_od-eliza-ham.gif?w=663" />
 " />
 
 <img width="640" /> 
