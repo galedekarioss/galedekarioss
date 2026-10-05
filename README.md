@@ -1,4 +1,4 @@
-<img width="850" height="600" alt="image" alt="image" src="https://preview.redd.it/black-sapphire-candy-apple-and-shadowmilk-theatre-show-by-v0-f5icyb52fxle1.jpeg?width=1080&crop=smart&auto=webp&s=24787d2ed10396e4427d8b762d1de3c34287942d" />
+<img width="850" height="600" alt="image" alt="image" src="https://static.wikia.nocookie.net/shipping/images/0/0d/Hamilton-gallery-3.jpg/revision/latest?cb=20260428092218" />
 
 
 <p align="left">${\textsf{\color{#D12A2A}  credits to @commandsatdusk for the code <3  }}$
