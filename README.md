@@ -16,9 +16,6 @@
 
 <img width="640" /> 
 
-
-<p align="center"> bottom text
-
 <!--
 **edmunson/edmunson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
