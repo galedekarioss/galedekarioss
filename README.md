@@ -1,4 +1,4 @@
-<img width="800" height="600" alt="image" alt="image" src="https://static.wikia.nocookie.net/shipping/images/0/0d/Hamilton-gallery-3.jpg/revision/latest?cb=20260428092218" />
+<img width="775" height="600" alt="image" alt="image" src="https://static.wikia.nocookie.net/shipping/images/0/0d/Hamilton-gallery-3.jpg/revision/latest?cb=20260428092218" />
 
 
 <p align="left">${\textsf{\color{#85B9E1}  credits to @commandsatdusk for the code <3  }}$
