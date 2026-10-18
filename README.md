@@ -2,6 +2,7 @@
 
 
 <p align="center">${\textsf{\color{#C9E1FF}   “ ᴡɪᴛʜ ʏᴏᴜ, ɪ ғᴏʀɢᴇᴛ ᴍʏ ɢᴏᴅᴅᴇss. ɪ ʟᴏᴠᴇ ʏᴏᴜ. “  }}$
+   
 <p align="center">${\textsf{\color{#C9E1FF}  mikey , , ♡ }}$
    
 ***
