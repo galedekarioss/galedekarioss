@@ -1,6 +1,6 @@
 <img width="720" height="400" alt="image" alt="image" width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/735b5d2a-38e3-4c93-890a-057933a9c0f4" />
 
-<p align=“center”>${textsf{\color{#C9E1FF}  “ ᴡɪᴛʜ ʏᴏᴜ, ɪ ғᴏʀɢᴇᴛ ᴍʏ ɢᴏᴅᴅᴇss. ɪ ʟᴏᴠᴇ ʏᴏᴜ. “
+<p align=“center”>${\textsf{\color{#C9E1FF}  “ ᴡɪᴛʜ ʏᴏᴜ, ɪ ғᴏʀɢᴇᴛ ᴍʏ ɢᴏᴅᴅᴇss. ɪ ʟᴏᴠᴇ ʏᴏᴜ. “
 
 <p align="center">${\textsf{\color{#C9E1FF}  mikey , , ♡ }}$
    
