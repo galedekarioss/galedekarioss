@@ -12,8 +12,7 @@
    <p align="center">${\textsf{\color{#8B3003} check strawpage / pronouns page / sign ata! }}$
 
 </p>
-<img width="400" height="250" alt="image" src="https://media1.tenor.com/m/Vziv7xx63F4AAAAd/gale-gale-dekarios.gif<img width="498" height="412" alt="image" src="https://github.com/user-attachments/assets/77fb8fea-c011-4a25-95df-ad228f046976" />
-" />
+<img width="400" height="300" alt="image" src="https://media1.tenor.com/m/Vziv7xx63F4AAAAd/gale-gale-dekarios.gif<img width="498”
 
 <!--
 **edmunson/edmunson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
