@@ -1,15 +1,15 @@
 <img width="720" height="400" alt="image" alt="image" src="https://cdn.mos.cms.futurecdn.net/3oEVMhj52aAd8gcxf9HmCj-1200-80.png.webp" />
 
 
-<p align="left">${\textsf{\color{#E57339}  credits to @commandsatdusk for the code <3  }}$
-<p align="center">${\textsf{\color{#E57339}  mikey , , ♡ }}$
+<p align="left">${\textsf{\color{#C9E1FF}  credits to @commandsatdusk for the code <3  }}$
+<p align="center">${\textsf{\color{#C9E1FF}  mikey , , ♡ }}$
    
 ***
    
-<p align="center">${\textsf{\color{#D25B20}   i friggen love baldurs gate 3 }}$
-<p align="center">${\textsf{\color{#C44A0D}  madoka, wendy testaburger kin }}$
-<p align="center">${\textsf{\color{#AC3D06}  HELLUVA/HAZBIN/ANYTHING VIVZIEPOP DNI. }}$
-   <p align="center">${\textsf{\color{#8B3003} check strawpage / pronouns page / sign ata! }}$
+<p align="center">${\textsf{\color{#9BB6FA}   i friggen love baldurs gate 3 }}$
+<p align="center">${\textsf{\color{#8591FB}  madoka, wendy testaburger kin }}$
+<p align="center">${\textsf{\color{#7070FC}  HELLUVA/HAZBIN/ANYTHING VIVZIEPOP DNI. }}$
+   <p align="center">${\textsf{\color{#4242B4} check strawpage / pronouns page / sign ata! }}$
 
 </p>
 <img width="400" height="300" alt="image" src="https://media1.tenor.com/m/Vziv7xx63F4AAAAd/gale-gale-dekarios.gif<img width="498”
