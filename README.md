@@ -1,4 +1,4 @@
-<img width="775" height="400" alt="image" alt="image" src="https://cdn.mos.cms.futurecdn.net/3oEVMhj52aAd8gcxf9HmCj-1200-80.png.webp" />
+<img width="650" height="500" alt="image" alt="image" src="https://cdn.mos.cms.futurecdn.net/3oEVMhj52aAd8gcxf9HmCj-1200-80.png.webp" />
 
 
 <p align="left">${\textsf{\color{#E57339}  credits to @commandsatdusk for the code <3  }}$
