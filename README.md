@@ -1,4 +1,4 @@
-<img width="700" height="400" alt="image" alt="image" src="https://cdn.mos.cms.futurecdn.net/3oEVMhj52aAd8gcxf9HmCj-1200-80.png.webp" />
+<img width="720" height="400" alt="image" alt="image" src="https://cdn.mos.cms.futurecdn.net/3oEVMhj52aAd8gcxf9HmCj-1200-80.png.webp" />
 
 
 <p align="left">${\textsf{\color{#E57339}  credits to @commandsatdusk for the code <3  }}$
@@ -12,7 +12,8 @@
    <p align="center">${\textsf{\color{#8B3003} check strawpage / pronouns page / sign ata! }}$
 
 </p>
-<img width="400" height="250" alt="image" src="https://middlehyrule.files.wordpress.com/2016/12/636006029198865499-403654757_od-eliza-ham.gif?w=663" />
+<img width="400" height="250" alt="image" src="https://media1.tenor.com/m/Vziv7xx63F4AAAAd/gale-gale-dekarios.gif<img width="498" height="412" alt="image" src="https://github.com/user-attachments/assets/77fb8fea-c011-4a25-95df-ad228f046976" />
+" />
 
 <!--
 **edmunson/edmunson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
