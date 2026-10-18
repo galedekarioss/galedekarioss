@@ -7,10 +7,10 @@
    
 ***
    
-<p align="center">${\textsf{\color{#9BB6FA}   i friggen love baldurs gate 3 }}$
-<p align="center">${\textsf{\color{#8591FB}  madoka, wendy testaburger kin }}$
-<p align="center">${\textsf{\color{#7070FC}  HELLUVA/HAZBIN/ANYTHING VIVZIEPOP DNI. }}$
-   <p align="center">${\textsf{\color{#4242B4} check strawpage / pronouns page / sign ata! }}$
+<p align="center">${\textsf{\color{#9BB6FA}   ɪ ʟᴏᴠᴇ ʙᴀʟᴅᴜʀs ɢᴀᴛᴇ 𝟹 }}$
+<p align="center">${\textsf{\color{#8591FB}  ʙɪɢᴇɴᴅᴇʀ, ᴀsᴋ ᴘʀᴏɴᴏᴜɴs }}$
+<p align="center">${\textsf{\color{#7070FC}  ʜᴀᴢʙɪɴ / ʜᴇʟʟᴜᴠᴀ / ᴀɴʏᴛʜɪɴɢ ᴠɪᴠᴢɪᴇᴘᴏᴘ ᴅɴɪ. }}$
+   <p align="center">${\textsf{\color{#4242B4} ᴄʜᴇᴄᴋ sᴛʀᴀᴡᴘᴀɢᴇ / ᴘʀᴏɴᴏᴜɴs ᴘᴀɢᴇ / sɪɢɴ ᴍʏ ᴀᴛᴀʙᴏᴏᴋ ! }}$
 
 </p>
 <img width="400" height="300" alt="image" src="https://media1.tenor.com/m/Vziv7xx63F4AAAAd/gale-gale-dekarios.gif<img width="498”
