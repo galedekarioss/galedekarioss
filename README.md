@@ -6,7 +6,7 @@
    
 ***
    
-<p align="center">${\textsf{\color{#D25B20}   i friggen love baldurs gate 3 and deltarune }}$
+<p align="center">${\textsf{\color{#D25B20}   i friggen love baldurs gate 3 }}$
 <p align="center">${\textsf{\color{#C44A0D}  madoka, wendy testaburger kin }}$
 <p align="center">${\textsf{\color{#AC3D06}  HELLUVA/HAZBIN/ANYTHING VIVZIEPOP DNI. }}$
    <p align="center">${\textsf{\color{#8B3003} check strawpage / pronouns page / sign ata! }}$
