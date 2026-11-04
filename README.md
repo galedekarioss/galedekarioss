@@ -9,8 +9,7 @@
    
 <p align="center">${\textsf{\color{#9BB6FA}   ɪ ʟᴏᴠᴇ ʙᴀʟᴅᴜʀs ɢᴀᴛᴇ 𝟹 }}$
 <p align="center">${\textsf{\color{#8591FB}  ʙɪɢᴇɴᴅᴇʀ, ᴀsᴋ ᴘʀᴏɴᴏᴜɴs }}$
-<p align="center">${\textsf{\color{#7070FC}  ʜᴀᴢʙɪɴ / ʜᴇʟʟᴜᴠᴀ / ᴀɴʏᴛʜɪɴɢ ᴠɪᴠᴢɪᴇᴘᴏᴘ ᴅɴɪ. }}$
- <p align="center">${\textsf{\color{#7070FC} 𝟷𝟾+ ʜᴇᴀᴠʏ ᴅɴɪ. }}$
+<p align="center">${\textsf{\color{#7070FC}  ʜᴀᴢʙɪɴ / ʜᴇʟʟᴜᴠᴀ / ᴀɴʏᴛʜɪɴɢ ᴠɪᴠᴢɪᴇᴘᴏᴘ ᴅɴɪ. 𝟷𝟾+ ʜᴇᴀᴠʏ ᴅɴɪ. }}$
    <p align="center">${\textsf{\color{#4242B4} ᴄʜᴇᴄᴋ sᴛʀᴀᴡᴘᴀɢᴇ / ᴘʀᴏɴᴏᴜɴs ᴘᴀɢᴇ / sɪɢɴ ᴍʏ ᴀᴛᴀʙᴏᴏᴋ ! }}$
 
 </p>
